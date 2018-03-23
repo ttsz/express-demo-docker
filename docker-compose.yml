@@ -1,6 +1,6 @@
 version: '3.5'
 services:
-  app:
+  web-app:
     container_name: express-app
     restart: always
     build: .
